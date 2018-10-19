@@ -7,3 +7,8 @@ Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
 
 ### LDA
 * https://www.youtube.com/watch?v=DWJYZq_fQ2A  
+
+### Listof Resources for Learning NLP  
+* https://hackernoon.com/list-of-free-resources-to-learn-natural-language-processing-5bc4b76db552
+
+* https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e  
