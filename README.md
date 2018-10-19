@@ -12,3 +12,4 @@ Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
 * https://hackernoon.com/list-of-free-resources-to-learn-natural-language-processing-5bc4b76db552
 
 * https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e  
+* https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788  
