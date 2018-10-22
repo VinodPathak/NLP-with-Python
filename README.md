@@ -13,3 +13,7 @@ Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
 
 * https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e  
 * https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788  
+
+
+### Chatbot  
+https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c  
