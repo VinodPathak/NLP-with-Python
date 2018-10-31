@@ -17,3 +17,6 @@ Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
 
 ### Chatbot  
 https://chatbotsmagazine.com/how-to-develop-a-chatbot-from-scratch-62bed1adab8c  
+
+https://medium.com/@datasciencemilan/50-shades-of-text-leveraging-natural-language-processing-nlp-49f69b605af0  
+
